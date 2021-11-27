@@ -17,8 +17,9 @@ In fact, that happens to me betweenwhiles as well. However, with python everythi
 > * export AUTH_TOKEN=YOUR AUTH TOKEN FROM TWILIO HERE
 > * python3 app.py
 
-## To run the application : 
+## The SMS message : 
 
 This is sms you'll get if it will rain in the next 8 hours of the current day!
 
-![SMS-rain](https://user-images.githubusercontent.com/74468388/143656798-6d29b432-45b4-4ea7-80a5-52a3c467cc05.jpg)
+![sms_rain](https://user-images.githubusercontent.com/74468388/143675389-562e0c0f-a4e2-44d2-a910-02092e2577e7.png)
+

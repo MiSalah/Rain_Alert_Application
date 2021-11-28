@@ -9,7 +9,7 @@ account_sid = "AC18b9c98cc4ff5a660199d02bf4683e4f"
 auth_token = os.environ.get("AUTH_TOKEN")
 
 weather_params = {
-    "lat": "33.270981",
+    "lat": "33.270981", #Latitude & longtitude of your location
     "lon": "-7.584740",
     "appid": api_key,
     "exclude": "current,minutely,daily,alerts"

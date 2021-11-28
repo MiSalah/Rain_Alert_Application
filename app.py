@@ -35,7 +35,7 @@ if will_rain:
     message = client.messages \
         .create(
         body="It's going to rain today. Remember to bring an ☔️",
-        from_="Number phone from twilio",
+        from_="Number phone from twilio", #purchase it from twilio, you can opt for a free number
         to="Your number phone"
     )
     print(message.sid)
